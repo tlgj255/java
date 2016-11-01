@@ -1,5 +1,4 @@
 package interface_;
-
 public class zookiper {
 public void feed(predater predater){
 	System.out.println("feed "+predater.getName());
